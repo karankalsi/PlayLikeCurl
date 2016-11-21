@@ -8,13 +8,13 @@ The source code is released under MIT License can be used in commercial or perso
 The main motive to work on 'PlayLikeCurl' is that its way more efficient than the traditional curl effect and is
 better looking because it's way more smoother than the traditional curl.
 
-In this project the below common sinusoidal graph equation is used to achieve the play like curl:-
+In this project the below common sinusoidal graph equation is used to achieve the play like curl:-<br/>
 <b>Asin(2πλx)</b><br /> <br /> 
 
 Where,<br /> 
-A = Amplitude (i.e. the elevation of curl we want).<br /> 
-λ = Wavelength (i.e. the length of the curl we want).<br /> 
-x = The X axis variable which will change as you move the page.<br /> 
+<b>A</b> = Amplitude (i.e. the elevation of curl we want).<br /> 
+<b>λ</b> = Wavelength (i.e. the length of the curl we want).<br /> 
+<b>x</b> = The X axis variable which will change as you move the page.<br /> 
 
 In this i have drawn 3 pages on SurfaceView namely 'LeftPage' , 'CenterPage' and 'RightPage',
 'CenterPage' is always visible and is responsible for 'right curl' animation while 'LeftPage' is responsible

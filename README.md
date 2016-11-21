@@ -9,7 +9,7 @@ The main motive to work on 'PlayLikeCurl' is that its way more efficient than th
 better looking because it's way more smoother than the traditional curl.
 
 In this project the below common sinusoidal graph equation is used to achieve the play like curl:-
-Asin(2πλx)<br /> <br /> 
+<b>Asin(2πλx)</b><br /> <br /> 
 
 Where,<br /> 
 A = Amplitude (i.e. the elevation of curl we want).<br /> 

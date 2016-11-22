@@ -44,9 +44,9 @@ Use Code:
 
 ```java
 PageSurfaceView  pageSurfaceView = new PageSurfaceView(this);
-String[] res_array=null;
+String[] asset_res_array=null;
 asset_res_array=  new String[]{"page1.png", "page2.png", "page3.png"};
-PageCurlAdapter pageCurlAdapter=new PageCurlAdapter(res_array);
+PageCurlAdapter pageCurlAdapter=new PageCurlAdapter(asset_res_array);
 pageSurfaceView.setPageCurlAdapter(pageCurlAdapter);
 setContentView(pageSurfaceView);
 ```

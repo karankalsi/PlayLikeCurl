@@ -23,12 +23,31 @@ for 'left curl' animation and 'RightPage' just stay static.<br />
 
 For detecting gestures the default GestureDetector class has been used.
 
-
-
-
 ToDo
 ====
 * Need to add shadow below the page when it will move.
+
+
+
+How to Use
+======================
+
+Add Gradle dependency:
+</br></br>
+
+dependencies {
+    compile 'com.github.karacken:karackencurllib:0.0.1'
+}
+</br></br></br>
+Use Code:</br></br>
+
+PageSurfaceView  pageSurfaceView = new PageSurfaceView(this);
+String[] res_array=null;
+asset_res_array=  new String[]{"page1.png", "page2.png", "page3.png"};
+PageCurlAdapter pageCurlAdapter=new PageCurlAdapter(res_array);
+pageSurfaceView.setPageCurlAdapter(pageCurlAdapter);
+setContentView(pageSurfaceView);
+
 
 References
 ======================

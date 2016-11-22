@@ -34,11 +34,11 @@ How to Use
 
 Add Gradle dependency:
 </br></br>
-...
+...xml
 dependencies {
     compile 'com.github.karacken:karackencurllib:0.0.1'
 }
-...
+...java
 </br></br></br>
 Use Code:</br></br>
 ...

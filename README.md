@@ -1,5 +1,8 @@
 ![demo](demo.gif)
 
+## Notice :warning:
+This repo is no longer maintained
+
 Introduction
 ============
 

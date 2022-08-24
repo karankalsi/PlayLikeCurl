@@ -2,11 +2,12 @@ package karacken.curleffect;
 
 import android.content.res.Configuration;
 import android.graphics.Point;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Display;
 import android.view.MotionEvent;
 import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import karacken.curl.PageCurlAdapter;
 import karacken.curl.PageSurfaceView;
@@ -14,7 +15,7 @@ import karacken.curl.PageSurfaceView;
 /**
  * Created by karacken on 18/11/16.
  */
-public class MainActivity extends AppCompatActivity  {
+public class MainActivity extends AppCompatActivity {
 
 
 

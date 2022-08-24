@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Karacken-Curl.iml" filepath="$PROJECT_DIR$/Karacken-Curl.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/karackencurllib/karackencurllib.iml" filepath="$PROJECT_DIR$/karackencurllib/karackencurllib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PlayLikeCurl.iml" filepath="$PROJECT_DIR$/.idea/modules/PlayLikeCurl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PlayLikeCurl.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PlayLikeCurl.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PlayLikeCurl.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PlayLikeCurl.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PlayLikeCurl.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PlayLikeCurl.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PlayLikeCurl.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PlayLikeCurl.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/karackencurllib/PlayLikeCurl.karackencurllib.iml" filepath="$PROJECT_DIR$/.idea/modules/karackencurllib/PlayLikeCurl.karackencurllib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/karackencurllib/PlayLikeCurl.karackencurllib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/karackencurllib/PlayLikeCurl.karackencurllib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/karackencurllib/PlayLikeCurl.karackencurllib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/karackencurllib/PlayLikeCurl.karackencurllib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/karackencurllib/PlayLikeCurl.karackencurllib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/karackencurllib/PlayLikeCurl.karackencurllib.unitTest.iml" />
     </modules>
   </component>
 </project>

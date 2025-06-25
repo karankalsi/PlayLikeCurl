@@ -18,8 +18,9 @@ package karacken.curl;
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
 import android.animation.ValueAnimator;
-import android.support.annotation.Nullable;
 import android.view.animation.Interpolator;
+
+import androidx.annotation.Nullable;
 
 /**
  * AnimateCounter provides ability to animate the changing of numbers using the builtin
